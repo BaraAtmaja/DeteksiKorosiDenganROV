@@ -1,0 +1,2 @@
+# DeteksiKorosiDenganROV
+Reparasi lambung kapal merupakan salah satu kegiatan penting yang harus dilakukan secara rutin, Proses reparasi lambung biasanya bertujuan untuk mengganti pelat yang mengalami akibat korosi terhadap air laut. Untuk meningkatkan efisiensi dan meminimalisir risiko, diperlukan adanya Remotely Operated Vehicle (ROV). ROV dilengkapi dengan kamera untuk merekam dan kemudian dianalisa dengan computer vision menggunakan metode Convolutional Neural Network (CNN).
